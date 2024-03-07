@@ -1,5 +1,5 @@
 # documenta-aoparaneandertais
-![image](https://github.com/gamingthings/documentacaobr/assets/162502847/6cabb898-d84b-4c5b-9adf-b80c089b3840)![image](https://github.com/gamingthings/documentacaobr/assets/162502847/cefcb778-c3d9-4469-b752-57864ec591f5)###  AVISO
+ AVISO
 Eu não usaria este docs se você pretende seguir a area de t.i ou correlacionados , pois o inglês e este assunto é nescessario/conhecimento basico ou essencial para o mercado de trabalho. CASO MUDE DE IDEIA use o docs da pagar.me https://docs.pagar.me/
 1-   passo você ira entrar no github do bento quirino na aba aos , você vai precisar do insomnia e do arquivo json encontrado no repo `https://github.com/Bento-Quirino/AOS/blob/main/insomnia-simulado.json
 2- você vai abrir o insomnia e vai clicar nas seguintes instruções : ![image](https://github.com/gamingthings/documentacaobr/assets/162502847/6745cbe7-46a0-494f-8b36-b5375ec951d3)
